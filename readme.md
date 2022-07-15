@@ -9,9 +9,3 @@ I'm mobile developer & with love for videogames. I'm 17 years old. My first lang
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeFFaQ&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 
-
-
-## Find me around the WWW🌎
-
-
-
